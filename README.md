@@ -33,11 +33,6 @@ Welcome to **Python-Crazyyy** is your go-to repository for creative and experime
    ```bash
    python PT-CT.py
    ```
-
----
-
-##
-
 ---
 
 ## Contributing
@@ -51,11 +46,7 @@ We welcome contributions from developers of all skill levels. Here’s how you c
 
 Please ensure your code is well-documented and follows the repository’s style guidelines.
 
----
-
-##
-
----
+ ---
 
 Feel free to explore, learn, and have fun with **Python-Crazyy**! If you like the repository, don’t forget to star it! ⭐
 
